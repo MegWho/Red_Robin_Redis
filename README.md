@@ -1,7 +1,7 @@
 # Red Robin Redis
 Hi!
 I'm tiny Redis clone written in Python by meg (python because she's..ykw).  
-She's (still working on making me better and) is building for to learning and experimentation, I'm just a mimic of core Redis behavior — including in-memory storage, basic command parsing, and persistence so when you close a file, i forgive, but not forget.
+She's (still working on making me better and) is building for to learning and experimentation, I'm just a mimic of core Redis behavior, including "in-memory storage", basic command parsing, and persistence so when you close a file, i forgive, but not forget.
 
 ## Features
 1. Key-Value Storage: Mimics basic Redis functionalities like setting and getting keys.
