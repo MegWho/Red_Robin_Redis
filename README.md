@@ -2,12 +2,10 @@
 A simplified Redis clone written in Python.  
 Built for learning and experimentation, this project mimics core Redis behavior — including in-memory storage, basic command parsing, and persistence.
 
-```text
 ## Features
--Key-Value Storage: Mimics basic Redis functionalities like setting and getting keys.
--Data Persistence: Stores data in `redis_clone_data.json` for reuse.
--GUI Interfaces: Two versions (`redis_GUI.py` and `redis_GUI2.py`) to interact with data without a terminal.
-```
+1. Key-Value Storage: Mimics basic Redis functionalities like setting and getting keys.
+2. Data Persistence: Stores data in `redis_clone_data.json` for reuse.
+3. GUI Interfaces: Two versions (`redis_GUI.py` and `redis_GUI2.py`) to interact with data without a terminal.
 
 ## How to Run
 
