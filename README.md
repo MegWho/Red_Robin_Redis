@@ -33,5 +33,4 @@ Red_Robin_Redis/
 └── LICENSE 
 ```
 
-License
 This project is licensed under the MIT License.
