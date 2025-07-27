@@ -1,6 +1,7 @@
 # Red Robin Redis
-A simplified Redis clone written in Python.  
-Built for learning and experimentation, this project mimics core Redis behavior — including in-memory storage, basic command parsing, and persistence.
+Hi!
+I'm tiny Redis clone written in Python by meg (python because she's..ykw).  
+She's (still working on making me better and) is building for to learning and experimentation, I'm just a mimic of core Redis behavior — including in-memory storage, basic command parsing, and persistence so when you close a file, i forgive, but not forget.
 
 ## Features
 1. Key-Value Storage: Mimics basic Redis functionalities like setting and getting keys.
@@ -8,7 +9,6 @@ Built for learning and experimentation, this project mimics core Redis behavior 
 3. GUI Interfaces: Two versions (`redis_GUI.py` and `redis_GUI2.py`) to interact with data without a terminal.
 
 ## How to Run
-
 1. Clone the repo:
     git clone https://github.com/MegWho/Red_Robin_Redis.git
     cd Red_Robin_Redis
