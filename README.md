@@ -21,6 +21,7 @@ Built for learning and experimentation, this project mimics core Redis behavior 
     or
     python redis_GUI2.py
 
+```text
 Project Structure
 
 Red_Robin_Redis/
@@ -30,6 +31,7 @@ Red_Robin_Redis/
 ├── redis_GUI2.py          # Alternative GUI with improved layouts in in table.
 ├── .gitignore             # Specifies files to exclude from version control.
 └── LICENSE 
+```
 
 License
 This project is licensed under the MIT License.
